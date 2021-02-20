@@ -1,6 +1,16 @@
 # Snake_Cherry_Game
 A Simple Snake and Cherry Game That asks a Question to Play
 
+
+
+
+
+
+
+
+
+
+
 import pygame,sys,random
 from pygame.math import Vector2
 
@@ -169,4 +179,14 @@ if(a*b==n):
         clock.tick(60)
 else:
     print("Study Well to Play Game")
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
